@@ -1,7 +1,6 @@
 ---
 title: Mint Shock's Digital Garden
 description: This is my "Digital Garden" on the Internet, where i share the stuff i make.
-image: Mint_Shock_background_Pattern.png
 showHero: true
 cta:
   - label: Explore syntax
