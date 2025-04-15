@@ -1,1 +1,1 @@
-/flower
+This is my "Digital Garden" on the Internet.
