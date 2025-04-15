@@ -6,7 +6,7 @@ cta:
   - label: Explore syntax
     href: "#-markdown-syntax"
   - label: See demo blog
-    href: /blog
+    href: /01 Resonite Projects
 ---
 
 
@@ -15,4 +15,5 @@ cta:
 Test
 test
 
+[[Reso Cutout Stream Vtube Camera]]
 [[Reso Cutout Stream Vtube Camera]]
