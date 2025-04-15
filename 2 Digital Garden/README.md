@@ -15,4 +15,3 @@ cta:
 Test
 test
 
-![[Resonite Projects.canvas]]
